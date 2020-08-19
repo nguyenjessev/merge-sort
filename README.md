@@ -5,7 +5,7 @@ A Ruby merge sorting algorithm
 (Array of numbers)
 
 #### Returns
-(Sorted array of numbers)
+Sorted array of numbers
 
 ## Problems
 Use recursion to write a merge sort algorithm
