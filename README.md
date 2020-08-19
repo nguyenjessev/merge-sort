@@ -11,5 +11,7 @@ Sorted array of numbers
 Use recursion to write a merge sort algorithm
 
 ## What I used
+Recursion
 
 ## What I learned
+Recursion
